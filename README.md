@@ -1,3 +1,3 @@
 # Credit-Card-Fraud-Detection
 
-https://github.com/sep236/Credit-Card-Fraud-Detection
+Data download link : https://www.kaggle.com/mlg-ulb/creditcardfraud
